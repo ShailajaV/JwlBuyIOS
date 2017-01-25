@@ -1,0 +1,3 @@
+rootProject.name = 'JwlBuyIOS'
+
+include ':app'
